@@ -1,6 +1,4 @@
-<a href="https://github.com/ViniciosRamos">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciosRamos&layout=compact&langs_count=6&theme=github_dark" />
-</a>
+![Vinicios GitHub stats](https://stats-alpha-liart.vercel.app/api?username=ViniciosRamos&show_icons=true&theme=radical)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciosRamos/ViniciosRamos/output/github-contribution-grid-snake-dark.svg">
