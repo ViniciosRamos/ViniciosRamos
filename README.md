@@ -17,10 +17,6 @@ Lately, I've also been diving into **Artificial Intelligence**, exploring ways t
   
   </br>
     </br>
-    
-![Vinicios GitHub stats](https://https://github-readme-stats-rouge-ten-35.vercel.app/api?username=ViniciosRamos&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats-xduckblackxs-projects.vercel.app/api/top-langs/?username=ViniciosRamos)](https://github.com/ViniciosRamos/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciosRamos/ViniciosRamos/output/github-contribution-grid-snake-dark.svg">
